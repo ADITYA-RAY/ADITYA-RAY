@@ -21,7 +21,7 @@ export const Contact = () => {
           <div className="contact_item">
             <center>
               <div className="mybtn conbtn">
-                <a href="mailto:someone@example.com"> Say Hi</a>
+                <a href="mailto:aditya90005@gmail.com"> Say Hi</a>
               </div>
             </center>
           </div>

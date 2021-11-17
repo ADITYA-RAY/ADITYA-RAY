@@ -40,7 +40,7 @@ export const Hero = () => {
           that lives on internet.
         </div>
         <button className="mybtn">
-          <a href="mailto:someone@example.com">Say Hi</a>
+          <a href="mailto:aditya90005@gmail.com">Say Hi</a>
         </button>
         <div className="btn_wrap"></div>
       </div>

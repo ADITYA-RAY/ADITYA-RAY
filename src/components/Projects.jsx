@@ -17,7 +17,9 @@ export const Projects = () => {
             <img src={cspc} alt="cspc" className="project_pc" />
           </Col>
           <Col xs={12} md={6}>
-            <div className="pro_c">CODESPARK</div>
+            <a href="https://adityaray.netlify.app" target="_blank">
+              <div className="pro_c"> CODESPARK</div>
+            </a>
             <div className="pro_card">
               An learning portal for developers and programmers!
               <div className="web_links">
@@ -35,7 +37,9 @@ export const Projects = () => {
       <div className="project_wrapper">
         <Row>
           <Col xs={12} md={6}>
-            <div className="pro_c_r">ADITYA FORGING</div>
+            <a href="https://adityaforging.com" target="_blank">
+              <div className="pro_c_r">ADITYA FORGING</div>
+            </a>
             <div className="pro_card_r" style={{ zIndex: "2" }}>
               Website for a Manufacturing Company!
               <div className="web_links">
@@ -60,7 +64,9 @@ export const Projects = () => {
             <img src={lemin} alt="cspc" className="project_pc" />
           </Col>
           <Col xs={12} md={6}>
-            <div className="pro_c">LEMMEBUY</div>
+            <a href="https://lemmebuy.in/" target="_blank">
+              <div className="pro_c">LEMMEBUY</div>
+            </a>
             <div className="pro_card one">
               An E-Commerce shopping destination powering local vendors!
               <div className="web_links">
@@ -87,7 +93,9 @@ export const Projects = () => {
           <br />
           <br />
           <Col xs={12} md={4}>
-            <div className="pro_c ch1">ROBOTIX</div>
+            <a href="https://robotix.nitrr.ac.in" target="_blank">
+              <div className="pro_c ch1">ROBOTIX</div>
+            </a>
             <div className="pro_card_o c1">
               Robotix Club NIT Raipur's official website!
               <div className="web_links">
@@ -98,7 +106,12 @@ export const Projects = () => {
             </div>
           </Col>
           <Col xs={12} md={4}>
-            <div className="pro_c ch2">WOOFY</div>
+            <a
+              href="https://aditya-ray.github.io/woofy-frontend/"
+              target="_blank"
+            >
+              <div className="pro_c ch2">WOOFY</div>
+            </a>
             <div className="pro_card_o c2">
               An IOT based infant monitoring system!
               <div className="web_links">
@@ -109,7 +122,9 @@ export const Projects = () => {
             </div>
           </Col>
           <Col xs={12} md={4}>
-            <div className="pro_c ch3">FUDVIEW</div>
+            <a href="https://fudview.netlify.app" target="_blank">
+              <div className="pro_c ch3">FUDVIEW</div>
+            </a>
             <div className="pro_card_o c3">
               Online menu for best dining experience!
               <div className="web_links">
@@ -125,8 +140,9 @@ export const Projects = () => {
         <br />
         <Row>
           <Col xs={12} md={4}>
-            {" "}
-            <div className="pro_c ch4">TYPERR</div>
+            <a href="https://typerr.netlify.app" target="_blank">
+              <div className="pro_c ch4">TYPERR</div>
+            </a>
             <div className="pro_card_o c4">
               Touch typing help with typing speed calculator!
               <div className="web_links">
@@ -138,8 +154,9 @@ export const Projects = () => {
           </Col>
 
           <Col xs={12} md={4}>
-            {" "}
-            <div className="pro_c ch5">CALCEASY</div>
+            <a href="https://calceasy.netlify.app" target="_blank">
+              <div className="pro_c ch5">CALCEASY</div>
+            </a>
             <div className="pro_card_o c5">
               Industrial Metal Weight Calculator for ease to small buisiness
               <div className="web_links">
@@ -150,7 +167,9 @@ export const Projects = () => {
             </div>
           </Col>
           <Col xs={12} md={4}>
-            <div className="pro_c ch6">ICPC2T</div>
+            <a href="http://icpc2t.nitrr.ac.in" target="_blank">
+              <div className="pro_c ch6">ICPC2T</div>
+            </a>
             <div className="pro_card_o c6">
               Conference on power, control and soft computing technologies.
               <div className="web_links">
