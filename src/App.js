@@ -12,8 +12,30 @@ import { About } from "./components/About";
 import { Toolbag } from "./components/Toolbag";
 import { Projects } from "./components/Projects";
 import { Contact } from "./components/Contact";
+import { useState, useEffect } from "react";
 
 function App() {
+  const [isLoading, setLoading] = useState(true);
+  function fakeRequest() {
+    return new Promise((resolve) => setTimeout(() => resolve(), 3000));
+  }
+  useEffect(() => {
+    fakeRequest().then(() => {
+      const el = document.querySelector(".loader-container");
+      if (el) {
+        el.remove();
+        setLoading(!isLoading);
+        setTimeout(function () {
+          document.querySelector("#reveal").style.opacity = "1";
+        }, 500);
+      }
+    });
+  });
+
+  if (isLoading) {
+    return null;
+  }
+
   return (
     <div>
       <Hero />
