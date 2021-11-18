@@ -18,18 +18,18 @@ export const Hero = () => {
             Hello <BsEmojiLaughing /> I am,
           </div>
         </Fade>
-        <Fade bottom>
-          <div className="letter name">A</div>
-          <div className="letter name">d</div>
-          <div className="letter name">i</div>
-          <div className="letter name">t</div>
-          <div className="letter name">y</div>
-          <div className="letter name">a</div>
-          <div className="letter name">_</div>
-          <div className="letter name">R</div>
-          <div className="letter name">a</div>
-          <div className="letter name">y</div>
-        </Fade>
+
+        <div className="letter name">A</div>
+        <div className="letter name">d</div>
+        <div className="letter name">i</div>
+        <div className="letter name">t</div>
+        <div className="letter name">y</div>
+        <div className="letter name">a</div>
+        <div className="letter name">_</div>
+        <div className="letter name">R</div>
+        <div className="letter name">a</div>
+        <div className="letter name">y</div>
+
         <Fade bottom>
           <div className="postname">
             A FullStack Web Developer. I create beautiful and functional Web
