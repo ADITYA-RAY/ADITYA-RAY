@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/ADITYA-RAY/static/css/main.bea59f34.chunk.css",
-    "main.js": "/ADITYA-RAY/static/js/main.ee6321b7.chunk.js",
-    "main.js.map": "/ADITYA-RAY/static/js/main.ee6321b7.chunk.js.map",
-    "runtime-main.js": "/ADITYA-RAY/static/js/runtime-main.61bca717.js",
-    "runtime-main.js.map": "/ADITYA-RAY/static/js/runtime-main.61bca717.js.map",
+    "main.css": "/ADITYA-RAY/static/css/main.f05ab871.chunk.css",
+    "main.js": "/ADITYA-RAY/static/js/main.f098b174.chunk.js",
+    "main.js.map": "/ADITYA-RAY/static/js/main.f098b174.chunk.js.map",
+    "runtime-main.js": "/ADITYA-RAY/static/js/runtime-main.575d1952.js",
+    "runtime-main.js.map": "/ADITYA-RAY/static/js/runtime-main.575d1952.js.map",
     "static/css/2.383c0125.chunk.css": "/ADITYA-RAY/static/css/2.383c0125.chunk.css",
-    "static/js/2.81b1f6b2.chunk.js": "/ADITYA-RAY/static/js/2.81b1f6b2.chunk.js",
-    "static/js/2.81b1f6b2.chunk.js.map": "/ADITYA-RAY/static/js/2.81b1f6b2.chunk.js.map",
-    "static/js/3.dccbb7cd.chunk.js": "/ADITYA-RAY/static/js/3.dccbb7cd.chunk.js",
-    "static/js/3.dccbb7cd.chunk.js.map": "/ADITYA-RAY/static/js/3.dccbb7cd.chunk.js.map",
+    "static/js/2.2a7585d9.chunk.js": "/ADITYA-RAY/static/js/2.2a7585d9.chunk.js",
+    "static/js/2.2a7585d9.chunk.js.map": "/ADITYA-RAY/static/js/2.2a7585d9.chunk.js.map",
+    "static/js/3.f3ea172c.chunk.js": "/ADITYA-RAY/static/js/3.f3ea172c.chunk.js",
+    "static/js/3.f3ea172c.chunk.js.map": "/ADITYA-RAY/static/js/3.f3ea172c.chunk.js.map",
     "index.html": "/ADITYA-RAY/index.html",
     "static/css/2.383c0125.chunk.css.map": "/ADITYA-RAY/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.bea59f34.chunk.css.map": "/ADITYA-RAY/static/css/main.bea59f34.chunk.css.map",
-    "static/js/2.81b1f6b2.chunk.js.LICENSE.txt": "/ADITYA-RAY/static/js/2.81b1f6b2.chunk.js.LICENSE.txt",
+    "static/css/main.f05ab871.chunk.css.map": "/ADITYA-RAY/static/css/main.f05ab871.chunk.css.map",
+    "static/js/2.2a7585d9.chunk.js.LICENSE.txt": "/ADITYA-RAY/static/js/2.2a7585d9.chunk.js.LICENSE.txt",
     "static/media/aff.735f6a96.png": "/ADITYA-RAY/static/media/aff.735f6a96.png",
     "static/media/cspc.c717dee8.png": "/ADITYA-RAY/static/media/cspc.c717dee8.png",
     "static/media/lemin.c7c1abc8.png": "/ADITYA-RAY/static/media/lemin.c7c1abc8.png",
     "static/media/myavatar.68c604dc.jpeg": "/ADITYA-RAY/static/media/myavatar.68c604dc.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.61bca717.js",
+    "static/js/runtime-main.575d1952.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.81b1f6b2.chunk.js",
-    "static/css/main.bea59f34.chunk.css",
-    "static/js/main.ee6321b7.chunk.js"
+    "static/js/2.2a7585d9.chunk.js",
+    "static/css/main.f05ab871.chunk.css",
+    "static/js/main.f098b174.chunk.js"
   ]
 }
