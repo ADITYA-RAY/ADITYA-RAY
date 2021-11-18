@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ADITYA-RAY/static/css/main.eb6b72cb.chunk.css",
-    "main.js": "/ADITYA-RAY/static/js/main.f098b174.chunk.js",
-    "main.js.map": "/ADITYA-RAY/static/js/main.f098b174.chunk.js.map",
+    "main.js": "/ADITYA-RAY/static/js/main.d839bc74.chunk.js",
+    "main.js.map": "/ADITYA-RAY/static/js/main.d839bc74.chunk.js.map",
     "runtime-main.js": "/ADITYA-RAY/static/js/runtime-main.575d1952.js",
     "runtime-main.js.map": "/ADITYA-RAY/static/js/runtime-main.575d1952.js.map",
     "static/css/2.383c0125.chunk.css": "/ADITYA-RAY/static/css/2.383c0125.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.2a7585d9.chunk.js",
     "static/css/main.eb6b72cb.chunk.css",
-    "static/js/main.f098b174.chunk.js"
+    "static/js/main.d839bc74.chunk.js"
   ]
 }
