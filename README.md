@@ -19,10 +19,14 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aditya-ray-4b6062202/">Linkedin</a>
 - 😄 Pronouns: He/him
 -⚡ Fun fact: I love making games on scratch.
-##
-<img align="center">
+<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADITYA-RAY&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-RAY&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADITYA-RAY&show_icons=true&theme=radical)](https://github.com/ADITYA-RAY/github-readme-stats)
 
-</img>
+<br/>
+
+[![Aditya's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-RAY&show_icons=true&theme=radical&layout=compact)](https://github.com/ADITYA-RAY/github-readme-stats)
+
+
+[![Aditya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ADITYA-RAY&theme=react-dark)](https://git.io/ADITYA-RAY)
+<br />
