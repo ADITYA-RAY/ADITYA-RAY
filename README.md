@@ -1,8 +1,11 @@
+
+
+<img width="100%" alt="Untitled" src="https://user-images.githubusercontent.com/74045024/153264906-813b7108-c9cd-4e01-8fc2-178d0c5f4793.png">
+
 ### Hi, I am Aditya 👋
 
 ##
 
-<img width="100%" alt="Untitled" src="https://user-images.githubusercontent.com/74045024/153264906-813b7108-c9cd-4e01-8fc2-178d0c5f4793.png">
 <h4>👨🏻‍💻 About Me</h4>
 
 
