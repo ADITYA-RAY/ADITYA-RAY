@@ -27,6 +27,6 @@
 
 [![Aditya's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-RAY&show_icons=true&theme=radical&layout=compact)](https://github.com/ADITYA-RAY/github-readme-stats)
 
-
+<!-- 
 [![Aditya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ADITYA-RAY&theme=react-dark)](https://git.io/ADITYA-RAY)
-<br />
+<br /> -->
